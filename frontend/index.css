@@ -1,0 +1,30 @@
+.list-group-item {
+    transition: background-color 0.2s ease;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+.form-check-label {
+    cursor: pointer;
+    transition: text-decoration 0.2s ease;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+    margin: 2rem auto;
+}
+
+.btn-danger {
+    transition: opacity 0.2s ease;
+}
+
+.btn-danger:hover {
+    opacity: 0.8;
+}
+
+.form-check-input {
+    cursor: pointer;
+}
